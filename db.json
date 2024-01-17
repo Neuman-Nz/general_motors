@@ -3,6 +3,8 @@
       {
           "id": 1,
           "make": "Toyota",
+          "year": 2020,
+          "mileage": 10000,
           "model": "Camry",
           "image": "https://hips.hearstapps.com/hmg-prod/images/c-005-1500x1000-1652713137.jpg?crop=0.958xw:0.719xh;0.0358xw,0.130xh&resize=1200:*",
           "sold": false
@@ -10,6 +12,8 @@
       {
           "id": 2,
           "make": "Honda",
+          "year": 2024,
+          "mileage": 1900,
           "model": "Accord",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbtLk2z4ryN7AmYS5cIIWjk_Vww47_lAUncFbRLsVP02u50UEVCtfza6V6rwPUDdYDESA&usqp=CAU",
           "sold": true
@@ -17,6 +21,8 @@
       {
           "id": 3,
           "make": "Ford",
+          "year": 2021,
+          "mileage": 10000,
           "model": "F-150",
           "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.carpages.ca%2Foem%2Fford%2Fshowroom%2Foem%2Ff-150.webp%3Fw%3D1280%26q%3D100%26s%3D1171efb77e67e7f3b5f51df00e312461&tbnid=8mA8OSMYriFCYM&vet=12ahUKEwiugbnL4eSDAxWQrycCHe7RD1gQMygZegQIARBm..i&imgrefurl=https%3A%2F%2Fwww.southcoastford.com%2Fnew-ford-f-150%2F&docid=Uy471MaRRM7rpM&w=1280&h=709&q=ford%20f%20150&ved=2ahUKEwiugbnL4eSDAxWQrycCHe7RD1gQMygZegQIARBm",
           "sold": false
@@ -24,6 +30,8 @@
       {
           "id": 4,
           "make": "Chevrolet",
+          "year": 2019,
+          "mileage": 10000,
           "model": "Malibu",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-3BgT7KyB3xkr-HzTDzoFVQvcNO8RUUyHESpqRZenhlJrDM-7swh-UiS5riZPcPJPkU&usqp=CAU",
           "sold": true
@@ -31,6 +39,8 @@
       {
           "id": 5,
           "make": "Nissan",
+          "year": 2020,
+          "mileage": 10000,
           "model": "Altima",
           "image": "https://www.bedfordnissan.com/blogs/1502/wp-content/uploads/2020/07/2020_Nissan_Altima_S.png",
           "sold": false
@@ -38,6 +48,8 @@
       {
           "id": 6,
           "make": "BMW",
+          "year": 2019,
+          "mileage": 8000,
           "model": "3 Series",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkLplwZt2lqPBB8LBRAWvLoayMrWh01Yjlw&usqp=CAU",
           "sold": false
@@ -45,6 +57,8 @@
       {
           "id": 7,
           "make": "Mercedes-Benz",
+          "year": 2020,
+          "mileage": 7000,
           "model": "C-Class",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZYke6BhAHsGBZuQM70Q9HmTp-_r2Kw3ha9eGFeC7vurbmHQtI540pK3y1bKgvol-4Co&usqp=CAU",
           "sold": true
@@ -52,6 +66,8 @@
       {
           "id": 8,
           "make": "Audi",
+          "year": 2023,
+          "mileage": 3000,
           "model": "A4",
           "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/51909/a4-exterior-right-front-three-quarter-2.jpeg?q=80",
           "sold": false
@@ -59,8 +75,10 @@
       {
           "id": 9,
           "make": "Hyundai",
+          "year": 2020,
+          "mileage": 5000,
           "model": "Elantra",
-          "image": "https://di-uploads-pod27.dealerinspire.com/fairfaxhyundai/uploads/2023/03/2023-elantra-sel-1024x768.jpg",
+          "image": "https://di- -pod27.dealerinspire.com/fairfaxhyundai/uploads/2023/03/2023-elantra-sel-1024x768.jpg",
           "sold": false
       }
   ]
