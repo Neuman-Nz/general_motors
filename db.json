@@ -33,7 +33,7 @@
           "year": 2019,
           "mileage": 10000,
           "model": "Malibu",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-3BgT7KyB3xkr-HzTDzoFVQvcNO8RUUyHESpqRZenhlJrDM-7swh-UiS5riZPcPJPkU&usqp=CAU",
+          "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/cars/malibu/01-images/mov/2024-malibu-mov-specialeditions-midnightedition-01.png?imwidth=960",
           "sold": true
       },
       {
@@ -42,7 +42,7 @@
           "year": 2020,
           "mileage": 10000,
           "model": "Altima",
-          "image": "https://www.bedfordnissan.com/blogs/1502/wp-content/uploads/2020/07/2020_Nissan_Altima_S.png",
+          "image": "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/03/MyAltima5-e1651160018126.jpg",
           "sold": false
       },
       {
@@ -51,7 +51,7 @@
           "year": 2019,
           "mileage": 8000,
           "model": "3 Series",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkLplwZt2lqPBB8LBRAWvLoayMrWh01Yjlw&usqp=CAU",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcJJIx9vRvGJV9sxlbdAG964ejK10CxYVlw&usqp=CAU",
           "sold": false
       },
       {
@@ -60,7 +60,7 @@
           "year": 2020,
           "mileage": 7000,
           "model": "C-Class",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZYke6BhAHsGBZuQM70Q9HmTp-_r2Kw3ha9eGFeC7vurbmHQtI540pK3y1bKgvol-4Co&usqp=CAU",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdid6jafjD6TUAqQRwKBZ4IJojv7z0YOR7dg&usqp=CAU",
           "sold": true
       },
       {
@@ -69,7 +69,7 @@
           "year": 2023,
           "mileage": 3000,
           "model": "A4",
-          "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/51909/a4-exterior-right-front-three-quarter-2.jpeg?q=80",
+          "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg",
           "sold": false
       },
       {
@@ -78,7 +78,7 @@
           "year": 2020,
           "mileage": 5000,
           "model": "Elantra",
-          "image": "https://di- -pod27.dealerinspire.com/fairfaxhyundai/uploads/2023/03/2023-elantra-sel-1024x768.jpg",
+          "image": "https://miro.medium.com/v2/resize:fit:1200/0*ewQg5boom3mGzU9O.png",
           "sold": false
       }
   ]
