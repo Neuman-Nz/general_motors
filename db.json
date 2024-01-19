@@ -7,7 +7,7 @@
           "mileage": 10000,
           "model": "Camry",
           "image": "https://hips.hearstapps.com/hmg-prod/images/c-005-1500x1000-1652713137.jpg?crop=0.958xw:0.719xh;0.0358xw,0.130xh&resize=1200:*",
-          "sold": true
+          "sold": false
       },
       {
           "id": 2,
@@ -16,7 +16,7 @@
           "mileage": 1900,
           "model": "Accord",
           "image": "https://th.bing.com/th/id/R.d87f0afc3e1f718c4ecf7939274ddaf7?rik=szlBARnh9XcbJQ&riu=http%3a%2f%2fimages.betweentheaxles.net%2f_uploads%2f2015%2f04%2fhonda-concept-d-103.jpg&ehk=qq1dP3cvbCjJ6hfoZBcKwf5%2b54lLja%2fsm2YDqEyZEXE%3d&risl=&pid=ImgRaw&r=0",
-          "sold": true
+          "sold": false
       },
       {
           "id": 3,
@@ -25,7 +25,7 @@
           "mileage": 10000,
           "model": "F-150",
           "image": "https://www.ford.com/is/image/content/dam/brand_ford/en_us/brand/trucks/f150/brand_f-150/dm/22_F150_R7A7574_Tremor_CAN.tif?croppathe=1_21x9&wid=1440",
-          "sold": true
+          "sold": false
       },
       {
           "id": 4,
@@ -34,7 +34,7 @@
           "mileage": 10000,
           "model": "Malibu",
           "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/cars/malibu/01-images/mov/2024-malibu-mov-specialeditions-midnightedition-01.png?imwidth=960",
-          "sold": true
+          "sold": false
       },
       {
           "id": 5,
@@ -43,7 +43,7 @@
           "mileage": 10000,
           "model": "Altima",
           "image": "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/03/MyAltima5-e1651160018126.jpg",
-          "sold": true
+          "sold": false
       },
       {
           "id": 6,
@@ -52,7 +52,7 @@
           "mileage": 8000,
           "model": "3 Series",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcJJIx9vRvGJV9sxlbdAG964ejK10CxYVlw&usqp=CAU",
-          "sold": true
+          "sold": false
       },
       {
           "id": 7,
@@ -61,7 +61,7 @@
           "mileage": 7000,
           "model": "C-Class",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdid6jafjD6TUAqQRwKBZ4IJojv7z0YOR7dg&usqp=CAU",
-          "sold": true
+          "sold": false
       },
       {
           "id": 8,
@@ -70,7 +70,7 @@
           "mileage": 3000,
           "model": "A4",
           "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg",
-          "sold": true
+          "sold": false
       },
       {
           "id": 9,
@@ -79,7 +79,7 @@
           "mileage": 5000,
           "model": "Elantra",
           "image": "https://miro.medium.com/v2/resize:fit:1200/0*ewQg5boom3mGzU9O.png",
-          "sold": true
+          "sold": false
       }
   ]
   
